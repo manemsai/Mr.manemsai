@@ -10,7 +10,6 @@ Hello! 👋 I'm Mohan, an experienced electrical engineer who's embarking on a j
 ## Transition to Data Analytics
 
 - 🎯 My goal is to leverage my engineering background and analytical skills to excel in the field of data analytics.
--     Pursuing Masters in Data Analytics at Clark University,Worcester,MA
 - 💼 I'm actively seeking opportunities in data analytics roles to apply my problem-solving abilities and technical expertise.
 - 📊 I have experience with SQL,Python,PowerBI,Tableau which I believe will be valuable in data analysis.
 
