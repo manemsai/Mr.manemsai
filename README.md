@@ -1,5 +1,5 @@
 
-# [Mr.manemsai]
+# [Mr. ManemSai]
 
 Hello! 👋 I'm Mohan, an experienced electrical engineer who's embarking on a journey into the world of data analytics. Here's a bit about my background and aspirations:
 
