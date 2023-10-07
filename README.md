@@ -28,7 +28,7 @@ Here are some of the skills I bring to the table:
 I'm excited to share some of my recent projects:
 
 1. **[Project 1]** - Data Exploration of Brazilian E-Commerce Public Dataset by Olist using Microsoft SQL server .
-   - Repository: [Link to Project 1 Repository]
+   - Repository: https://github.com/manemsai/Ecommerce-analysis
    - Technologies used: Microsoft SQL Server
 
 
