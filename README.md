@@ -20,7 +20,7 @@ Here are some of the skills I bring to the table:
 - **Electrical Engineering**: Problem Solving,Optimization,Power sytems, Machines,Electric Drives
 - **Data Analysis**:Python, SQL, Advanced Excel.
 - **Programming Languages**: Python
-- **Statistical Analysis**: 
+- **Statistical Analysis**: Hypothesis Testing,A/B Testing
 - **Data Visualization**: PowerBI,Tableau,Matplotlib,seaborn
 - **Machine Learning**: Linear Regression,Logistic Regression,Random Forest
 ## Projects
